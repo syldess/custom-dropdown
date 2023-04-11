@@ -229,7 +229,7 @@ Example 2, adding custom style:
 
 ## Demo
 
-Try it on [CodePen](https://codepen.io/sylvaindessureault/pen/NWMOLxg).
+Try it on [CodePen](https://codepen.io/sylvaindessureault/full/MWPapgb).
 
 ## License
 
