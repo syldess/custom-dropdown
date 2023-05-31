@@ -6,16 +6,6 @@ This is a fully customizable Dropdown React Component.
 
 To have a customizable dropdown component that relies on no other libraries.
 
-## Further improvements
-
-- [ ] Add code documentation
-- [ ] Fix hover customizability issue
-- [ ] Add 4 different sizes
-- [x] Add Scrollable container
-- [x] Add custom styling documentation.
-- [x] Add possibility to easily modify the style by passing in props.
-- [x] Add rounded-corner style or regular
-
 ## Usage
 
 1. Clone or download this repo and add the `custom-dropdown` folder into your `src` folder.
@@ -229,7 +219,7 @@ Example 2, adding custom style:
 
 ## Demo
 
-Try it on [CodePen](https://codepen.io/sylvaindessureault/full/MWPapgb).
+Try it on [CodePen](https://codepen.io/sylvaindessureault/full/LYgKVWV).
 
 ## License
 

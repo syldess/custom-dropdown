@@ -1,13 +1,12 @@
 import React from 'react';
 import './SelectStyles.css';
 
-const Select = ({
-  choices,
-  handleSelect,
-  dropdownListStyle,
-  ulStyle,
-  liStyle,
-}) => {
+function Select({ choices,
+                  handleSelect,
+                  dropdownListStyle,
+                  ulStyle,
+                  liStyle,
+                }) {
   return (
     <div style={dropdownListStyle}>
       <ul style={ulStyle}>
