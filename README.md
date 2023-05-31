@@ -221,6 +221,8 @@ Example 2, adding custom style:
 
 Try it on [CodePen](https://codepen.io/sylvaindessureault/full/LYgKVWV).
 
+For the old version using a Class Component, you can check the [CodePen here](https://codepen.io/sylvaindessureault/pen/MWPapgb).
+
 ## License
 
 Copyright (c) 2020 Sylvain Dessureault.
